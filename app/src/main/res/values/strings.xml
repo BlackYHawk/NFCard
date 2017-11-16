@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NFCard</string>
+
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="never">不再提醒</string>
+
+    <string name="nfc_support">没发现NFC设备，请确认您的设备支持NFC功能!</string>
+    <string name="nfc_enable">打开设备的NFC功能!</string>
+
+</resources>
